@@ -1,0 +1,770 @@
+{
+  "assets": [
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-bn/docs-0.jsonl.gz",
+      "path": "miracl-corpus-v1.0-bn/docs-0.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "7399b221f6dabab5e9ab0eed6107a27091df3807f4684d588357e4c8abbdaef2",
+      "size": 59713182,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-bn/docs-0.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-0.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-0.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "f437e7f1a3c8e62a3d8dc7cc510db9b8ae40f6d088912324ab732f2bf51293f0",
+      "size": 98856369,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-0.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-1.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-1.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "26e2dce51e95e116ffd26bf4c9a028853d2a4cca8378ca35592dc36c228436dc",
+      "size": 97338482,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-1.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-10.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-10.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "64fa76e090cec2d663766e4fa47dea4309c1d7b934b1a9a50d23d031e4808ea3",
+      "size": 85787457,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-10.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-11.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-11.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "c33bb56e54e1cf86f78eaa09905f6c0e3a957376067386763ab95f2798533e85",
+      "size": 85858461,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-11.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-12.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-12.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "1f2c64c9ac3c30c3bebdfa85309356bdfc484baa0fba9e01f25a20dac4bd7e58",
+      "size": 85089158,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-12.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-13.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-13.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "4001f73aa2ba49222716041529bf87cd4bb8e9dfd2e61aa7a2ca6149ec6099ba",
+      "size": 82769410,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-13.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-14.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-14.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "dbc9d8fd5db6af9d170192029a04ae426aa8474461fcb63d1c98cdba9a0a031f",
+      "size": 83032778,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-14.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-15.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-15.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "84a5ad58635e4bf77945489e43410e7ad0d51e873119e8f72977deaf0b44d033",
+      "size": 82548385,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-15.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-16.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-16.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "9f1a5e9d0bdffc17c04063e01575d4c6212236d42730724235ade7277f87a61a",
+      "size": 81947138,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-16.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-17.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-17.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "c796466731b12b9b996a60d1484ad3727a55e69d747f799a9514885a5a5a316c",
+      "size": 81038479,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-17.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-18.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-18.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "f2c1b02dc3430674c20d136c0922f16f1f62713d25e1c23fad715575d598f642",
+      "size": 80496066,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-18.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-19.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-19.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "49b38a38feb24dd307afa966d2e3e12771a970ac476f99390d229c746acde0bc",
+      "size": 80243337,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-19.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-2.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-2.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "6fdbd1eaa6605b07435edbac2ce35ee9b2dbf0b5d838049b13ef735bbe76fd86",
+      "size": 64571457,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-2.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-20.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-20.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "27aad70c717b63b61e24962e761166596ae6235a954b44a83cff15bce8956fd2",
+      "size": 80003557,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-20.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-21.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-21.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "2013576221c900a6c029f49aa705de0a1f4abd77da2483ee66a71febc2e83ea2",
+      "size": 79751834,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-21.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-22.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-22.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "ba39fcd25da55b97266537c0867e0fbcae7723461c26a319caf298c96fddf910",
+      "size": 76766869,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-22.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-23.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-23.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "6f8f5f46dc29d2ee7338adcbda293fb41b1b2d3a11f96f88dcb9c32955807b53",
+      "size": 75810312,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-23.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-24.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-24.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "10d6470537a4ef421187103ad9aba191d25bd660249e5043b497ff6b26ef9cfa",
+      "size": 76272005,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-24.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-25.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-25.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "3054907619679f4c34e04412aef986339006f37337dce74d925e483ad6fa697c",
+      "size": 77082664,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-25.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-26.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-26.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "696338984f800e1e9148a5612a69e0af54a5eee4ce06a656f292bfe2241592dc",
+      "size": 78228256,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-26.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-27.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-27.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "dda592152098544ccb18b1c0019c226e7055aac64e0c791a8b4e8c28b4e8a52c",
+      "size": 76445022,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-27.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-28.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-28.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "ea293c31bd1cadd19ba139118489fb2f1d2647b08a018d0ec5165484752211ba",
+      "size": 76434972,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-28.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-29.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-29.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "a8d5f82ffe35c38f27732cb8e5c1f8caf1a562014eae5d0016b05e4940abc6bf",
+      "size": 74697707,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-29.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-3.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-3.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "314d101626058609268c42c4cfb805972eb8aac67d63670383763eef4351c920",
+      "size": 79988237,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-3.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-30.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-30.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "bc3643d2902b108292d9e8ca7f00ddd22188d0b8208eec19e8f7567c1d2e964b",
+      "size": 71839143,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-30.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-31.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-31.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "c360361103c386d212346878df2a465441f5ab5ef623cb89c5bcde9c75176fa9",
+      "size": 73437320,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-31.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-32.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-32.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "8fdffb9a71f7c1e6d6aa2032a707b526135984b01f7d166f6e13974e43837229",
+      "size": 73322325,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-32.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-33.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-33.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "7771d3925fb18c1c55d499acb2bada6e6ec82934b36b3a225599b0920bead606",
+      "size": 70699147,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-33.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-34.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-34.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "1c5227a566196f6858a46e2282d9b5fcdd66c064d2d4f9af90b3289b8a4d7c0c",
+      "size": 74843362,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-34.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-35.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-35.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "fb0d900dc71808fa4acbbb2edd2417089339e1ce34edbf69a5421c2d7612f7a7",
+      "size": 71914591,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-35.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-36.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-36.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "f90674624bcf503d6f69eb198e23bf6f0530a7091f983f643a33ffafb388c62e",
+      "size": 73255731,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-36.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-37.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-37.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "8dc5e0500c77c1598a5610ebc36ebb49e584d14caab78095eb9800d55480d3e7",
+      "size": 74956992,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-37.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-38.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-38.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "b520dfdd89983e0453ebe7d837db360ab5b6dcf0e4b9851abac9806026fa900a",
+      "size": 70506538,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-38.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-39.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-39.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "c50986a3da85a39d6af0aa5a5fbdff6acf103a1529ec2601977ac0637e8ca856",
+      "size": 73824158,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-39.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-4.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-4.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "470d936bd978b84a042647711a689850e48b39b8ca3ed8537b506aa3dfbc6811",
+      "size": 91846360,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-4.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-40.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-40.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "4b5e2dcbedb089c280351984b6e219167207a81ac4ee25fa2375d0102432ae65",
+      "size": 72684614,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-40.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-41.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-41.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "b834a67c8686dfc7d0d105892459279402de7fe3db9de06231baf141bdc5476a",
+      "size": 74674474,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-41.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-42.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-42.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "65215395de63a8c82b6e47d4d0cd1e54540cf860078085271f136eee85102072",
+      "size": 74166535,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-42.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-43.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-43.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "46d1ed7537ac2432ca9f28e2ac4cf9c84e54de5882ae1667fd6f1505af80222e",
+      "size": 72571698,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-43.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-44.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-44.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "eaa86e52edee34ad3a56c79f6a600f021d6ed69b654c1a1a44ee8600a7ac4343",
+      "size": 72937865,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-44.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-45.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-45.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "c1307acccebdacc56561807e60e145fad6ff652b9b3bbdba6b1d30e61bdd7c97",
+      "size": 74948873,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-45.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-46.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-46.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "fa98836315afeba18e286290e729abad8ee78c23af7288529c846e1cdb82fb6b",
+      "size": 75950579,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-46.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-47.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-47.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "83b86f15f560d9dd7c9b83385b624228735403a372c5400a5a91b04c69f7295c",
+      "size": 72978719,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-47.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-48.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-48.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "d093bd06d07e495cbee56cd97288742a55eb9730059c0b165e14d75f1c91d775",
+      "size": 73930541,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-48.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-49.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-49.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "e075ce23fcebaa15c8ca4946e71b07fc27470672f1cd1d3bd1dd4b0e5d17fc11",
+      "size": 74004419,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-49.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-5.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-5.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "aa4a520a843969a7ad73100967e4f228b8811db3f09cea4bc34bdf38aa4588e3",
+      "size": 91542927,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-5.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-50.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-50.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "526164b6eff6477fc572e5c85e772e5065f323d71abb79e2d13a2275c4ff48d4",
+      "size": 70736448,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-50.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-51.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-51.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "d391faeacca55490a379e43a950b0de2cb148a0b2b32a7e29d76cb2b82b36973",
+      "size": 73415840,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-51.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-52.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-52.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "bc3e022fcf78f03ba5753547827c9963248cb6c4ede235230f4fd5098dcdc1cf",
+      "size": 73776910,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-52.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-53.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-53.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "3678ed57b8839e90142ea66d1ab02b07f7e2bf6a264f6eccb2844593f6b76f2e",
+      "size": 72091328,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-53.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-54.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-54.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "49940fda3b789438a5d0be44c97ac3a49e84340c04a6b9d6a63862c6ed8b7f20",
+      "size": 72782654,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-54.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-55.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-55.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "17d9e309b2ccae8a992e11b06c6f2acf34f51d52089d18f4375afe012fb4c1dc",
+      "size": 70569978,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-55.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-56.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-56.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "b76fcbdf092b48b06564112a66feafe7a7463550c142a74eca44e032ebca745e",
+      "size": 71740868,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-56.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-57.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-57.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "f8f51cf11dc8d4527d5128d0ed566ce0d7eeccb601342b232ee81f1e738abab9",
+      "size": 72217620,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-57.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-58.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-58.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "acbeb217eb03a3f290aef68a734bc664e0471bfd9a9f941b52cb3150112463ff",
+      "size": 71862927,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-58.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-59.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-59.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "f5a0c6dc462ef6b533dff24277dd6b33a4096c3e965e14a55f252ff3fe3ae4e2",
+      "size": 71495670,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-59.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-6.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-6.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "e11ff2879ee60599fbe12cd7eb7ac83414db282ec63e7125ca0504788c184cd2",
+      "size": 88919126,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-6.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-60.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-60.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "97f724273e162cc7832936a5d5d215b63e653e09850c689acd2888e27a13bd5e",
+      "size": 69897224,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-60.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-61.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-61.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "2b7a06eab2d5b7e85752032d08979e107164bdafd1a7e4a6f27969c4e6f63e80",
+      "size": 70170718,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-61.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-62.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-62.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "785e1bcb1499b5018fc8bedb69deac2ccb78be3950196b4c9ea28a1b6c540176",
+      "size": 69279270,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-62.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-63.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-63.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "5f33445c93d384363d583356727e76ae60a74349806f98ebab41ed27382c3f92",
+      "size": 68754531,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-63.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-64.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-64.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "bbc4235e201879afccc626a2288b1896b84fee6c5fe51675f89aaec1004340fe",
+      "size": 65487314,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-64.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-65.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-65.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "d736c2fe0bb93b76142c485b052561f395dcc7cbe6ac9f92d9668f9ce0291b39",
+      "size": 52897612,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-65.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-7.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-7.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "80a91a7b5c53253fbe1646da3b064e33ec845d9d21760d0b071b57150ce0343e",
+      "size": 88149943,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-7.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-8.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-8.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "324087c58fe99390a5b3365cbe562ea1ba83ce67757383c57c8ec740f6923f4c",
+      "size": 87557556,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-8.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-en/docs-9.jsonl.gz",
+      "path": "miracl-corpus-v1.0-en/docs-9.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "ff98a5dcfc84b3093c5c674160f478104b3ef78d534db9681d45d3e2d2d218d8",
+      "size": 86565246,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-en/docs-9.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-hi/docs-0.jsonl.gz",
+      "path": "miracl-corpus-v1.0-hi/docs-0.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "20035ebba59ff53859c10ac386306159249e2e4f1e449e1c796c399ac77745ef",
+      "size": 95650487,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-hi/docs-0.jsonl.gz"
+    },
+    {
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:miracl-corpus-v1.0-hi/docs-1.jsonl.gz",
+      "path": "miracl-corpus-v1.0-hi/docs-1.jsonl.gz",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "sha256": "f1446e533bcdde51ecb094ee031d1e74a6b9c3b92bf2321f7c27c5088d92974a",
+      "size": 1161610,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/miracl-corpus-v1.0-hi/docs-1.jsonl.gz"
+    },
+    {
+      "git_blob_sha1": "f82a77050bad01f9822de1d5bfd3b805afe16e27",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-bn/qrels/qrels.miracl-v1.0-bn-dev.tsv",
+      "path": "miracl-v1.0-bn/qrels/qrels.miracl-v1.0-bn-dev.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 75970,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-bn/qrels/qrels.miracl-v1.0-bn-dev.tsv"
+    },
+    {
+      "git_blob_sha1": "cd45074f9772128a5db47e49d99dda6150eee0a8",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-bn/qrels/qrels.miracl-v1.0-bn-train.tsv",
+      "path": "miracl-v1.0-bn/qrels/qrels.miracl-v1.0-bn-train.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 302570,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-bn/qrels/qrels.miracl-v1.0-bn-train.tsv"
+    },
+    {
+      "git_blob_sha1": "73f6a658ecc54eb8ed1fd9d4c15ae06b58c2681c",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-bn/topics/topics.miracl-v1.0-bn-dev.tsv",
+      "path": "miracl-v1.0-bn/topics/topics.miracl-v1.0-bn-dev.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 53473,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-bn/topics/topics.miracl-v1.0-bn-dev.tsv"
+    },
+    {
+      "git_blob_sha1": "e8b0fc01a7856bc860e9ca13924c69e8bc4f73e2",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-bn/topics/topics.miracl-v1.0-bn-train.tsv",
+      "path": "miracl-v1.0-bn/topics/topics.miracl-v1.0-bn-train.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 212262,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-bn/topics/topics.miracl-v1.0-bn-train.tsv"
+    },
+    {
+      "git_blob_sha1": "59765e9dec29ec569c4f308078931cb7cfa90326",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-en/qrels/qrels.miracl-v1.0-en-dev.tsv",
+      "path": "miracl-v1.0-en/qrels/qrels.miracl-v1.0-en-dev.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 167817,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-en/qrels/qrels.miracl-v1.0-en-dev.tsv"
+    },
+    {
+      "git_blob_sha1": "cb91af16663c6576a78e3f24f5e08504931d5d80",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-en/qrels/qrels.miracl-v1.0-en-train.tsv",
+      "path": "miracl-v1.0-en/qrels/qrels.miracl-v1.0-en-train.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 589618,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-en/qrels/qrels.miracl-v1.0-en-train.tsv"
+    },
+    {
+      "git_blob_sha1": "02e83ab64d97e9ec47b3cbf327de6eeec206cd21",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-en/topics/topics.miracl-v1.0-en-dev.tsv",
+      "path": "miracl-v1.0-en/topics/topics.miracl-v1.0-en-dev.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 36782,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-en/topics/topics.miracl-v1.0-en-dev.tsv"
+    },
+    {
+      "git_blob_sha1": "10a035d24d3f6e4c73a0b252ef9d69e8dcb93ddc",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-en/topics/topics.miracl-v1.0-en-train.tsv",
+      "path": "miracl-v1.0-en/topics/topics.miracl-v1.0-en-train.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 128428,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-en/topics/topics.miracl-v1.0-en-train.tsv"
+    },
+    {
+      "git_blob_sha1": "5aba12e7f8fb9c6f7563d2a408563de974ca9595",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-hi/qrels/qrels.miracl-v1.0-hi-dev.tsv",
+      "path": "miracl-v1.0-hi/qrels/qrels.miracl-v1.0-hi-dev.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 79771,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-hi/qrels/qrels.miracl-v1.0-hi-dev.tsv"
+    },
+    {
+      "git_blob_sha1": "ae80f84a92a70b7f49c8ff69593f91aa779687d5",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-hi/qrels/qrels.miracl-v1.0-hi-train.tsv",
+      "path": "miracl-v1.0-hi/qrels/qrels.miracl-v1.0-hi-train.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 266412,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-hi/qrels/qrels.miracl-v1.0-hi-train.tsv"
+    },
+    {
+      "git_blob_sha1": "289fdf25ecaddd9ee4f803bc7980e35d4556b967",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-hi/topics/topics.miracl-v1.0-hi-dev.tsv",
+      "path": "miracl-v1.0-hi/topics/topics.miracl-v1.0-hi-dev.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 52022,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-hi/topics/topics.miracl-v1.0-hi-dev.tsv"
+    },
+    {
+      "git_blob_sha1": "d866b5a8175a450e24f92e938588bf67431337c4",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:miracl-v1.0-hi/topics/topics.miracl-v1.0-hi-train.tsv",
+      "path": "miracl-v1.0-hi/topics/topics.miracl-v1.0-hi-train.tsv",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 169941,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/miracl-v1.0-hi/topics/topics.miracl-v1.0-hi-train.tsv"
+    },
+    {
+      "git_blob_sha1": "cf995fbc7fd20f7e9c58465966e315eefb4bea90",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl-corpus:README.md",
+      "path": "provenance/miracl-corpus-README.md",
+      "revision": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d",
+      "size": 6851,
+      "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/d921ec7e349ce0d28daf30b2da9da5ee698bef0d/README.md"
+    },
+    {
+      "git_blob_sha1": "328c8bd054189d17c9969f1d854a54003ad2f672",
+      "license": "Apache-2.0 (publisher dataset card; preserve underlying Wikipedia provenance)",
+      "name": "miracl/miracl:README.md",
+      "path": "provenance/miracl-topics-README.md",
+      "revision": "5be20db9509754dadad47689368639fcec739c00",
+      "size": 3557,
+      "url": "https://huggingface.co/datasets/miracl/miracl/resolve/5be20db9509754dadad47689368639fcec739c00/README.md"
+    }
+  ],
+  "corpus_policy": "all original shards form the sampling frame; retain every selected-query judged passage including nonrelevant labels",
+  "evaluation_policy": "official dev is locked final evaluation; no testA/testB files are acquired",
+  "languages": [
+    "en",
+    "hi",
+    "bn"
+  ],
+  "provenance": [
+    "https://github.com/project-miracl/miracl",
+    "https://huggingface.co/datasets/miracl/miracl",
+    "https://huggingface.co/datasets/miracl/miracl-corpus"
+  ],
+  "resource": "MIRACL v1.0 English/Hindi/Bengali original publisher files",
+  "revisions": {
+    "miracl/miracl": "5be20db9509754dadad47689368639fcec739c00",
+    "miracl/miracl-corpus": "d921ec7e349ce0d28daf30b2da9da5ee698bef0d"
+  },
+  "schema_version": 1,
+  "total_download_bytes": 5218934859
+}

@@ -1,0 +1,13 @@
+{
+  "assets": [
+    {
+      "name": "uroman-1.3.1.1-wheel",
+      "url": "https://files.pythonhosted.org/packages/78/e1/43722c41eebab0592c6f83410e5e35edc1d6e333f44feb0a543bd38dba3e/uroman-1.3.1.1-py3-none-any.whl",
+      "path": "uroman-1.3.1.1-py3-none-any.whl",
+      "size": 930684,
+      "sha256": "394f965f7011fd56a84aca098a6c3b50082f365324f5d94c992852137918c8f5",
+      "license": "USC permissive license; retain bundled LICENSE.txt and publication acknowledgment",
+      "revision": "1.3.1.1"
+    }
+  ]
+}

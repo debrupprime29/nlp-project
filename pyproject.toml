@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "uncertainty-aware-ir"
+version = "0.1.0"
+description = "Uncertainty-aware multi-view retrieval for noisy English-Hindi-Bengali queries"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Research use; dataset licenses apply separately"}
+dependencies = []
+
+[project.scripts]
+uncertainty-ir-demo = "app:main"
+
+[project.optional-dependencies]
+dense = ["torch>=2.2", "transformers>=4.40,<6", "safetensors>=0.4"]
+training = ["torch>=2.2", "transformers>=4.40,<6", "safetensors>=0.4"]
+language-resources = ["uroman==1.3.1.1"]
+
+[tool.setuptools]
+packages = ["data", "evaluation", "retrieval", "nlp", "training"]
+py-modules = ["app"]
+

@@ -1,0 +1,4 @@
+{"text":"weather","start":0,"end":7,"label":"en","partition":"auxiliary_validation","group_id":"fixture-val-weather","source":"tiny-handwritten-fixture"}
+{"text":"kaise","start":0,"end":5,"label":"hi","partition":"auxiliary_validation","group_id":"fixture-val-kaise","source":"tiny-handwritten-fixture"}
+{"text":"kothay","start":0,"end":6,"label":"bn","partition":"auxiliary_validation","group_id":"fixture-val-kothay","source":"tiny-handwritten-fixture"}
+{"text":"12345","start":0,"end":5,"label":"other","partition":"auxiliary_validation","group_id":"fixture-val-number","source":"tiny-handwritten-fixture"}

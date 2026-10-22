@@ -1,0 +1,16 @@
+{"text":"rainfall","start":0,"end":8,"label":"en","partition":"auxiliary_train","group_id":"fixture-en-rainfall","source":"tiny-handwritten-fixture"}
+{"text":"earthquake","start":0,"end":10,"label":"en","partition":"auxiliary_train","group_id":"fixture-en-earthquake","source":"tiny-handwritten-fixture"}
+{"text":"clouds","start":0,"end":6,"label":"en","partition":"auxiliary_train","group_id":"fixture-en-clouds","source":"tiny-handwritten-fixture"}
+{"text":"causes","start":0,"end":6,"label":"en","partition":"auxiliary_train","group_id":"fixture-en-causes","source":"tiny-handwritten-fixture"}
+{"text":"bhukamp","start":0,"end":7,"label":"hi","partition":"auxiliary_train","group_id":"fixture-hi-bhukamp","source":"tiny-handwritten-fixture"}
+{"text":"kyu","start":0,"end":3,"label":"hi","partition":"auxiliary_train","group_id":"fixture-hi-kyu","source":"tiny-handwritten-fixture"}
+{"text":"aate","start":0,"end":4,"label":"hi","partition":"auxiliary_train","group_id":"fixture-hi-aate","source":"tiny-handwritten-fixture"}
+{"text":"hain","start":0,"end":4,"label":"hi","partition":"auxiliary_train","group_id":"fixture-hi-hain","source":"tiny-handwritten-fixture"}
+{"text":"bhumikompo","start":0,"end":10,"label":"bn","partition":"auxiliary_train","group_id":"fixture-bn-bhumikompo","source":"tiny-handwritten-fixture"}
+{"text":"keno","start":0,"end":4,"label":"bn","partition":"auxiliary_train","group_id":"fixture-bn-keno","source":"tiny-handwritten-fixture"}
+{"text":"hoy","start":0,"end":3,"label":"bn","partition":"auxiliary_train","group_id":"fixture-bn-hoy","source":"tiny-handwritten-fixture"}
+{"text":"brishti","start":0,"end":7,"label":"bn","partition":"auxiliary_train","group_id":"fixture-bn-brishti","source":"tiny-handwritten-fixture"}
+{"text":"2026","start":0,"end":4,"label":"other","partition":"auxiliary_train","group_id":"fixture-other-2026","source":"tiny-handwritten-fixture"}
+{"text":"99","start":0,"end":2,"label":"other","partition":"auxiliary_train","group_id":"fixture-other-99","source":"tiny-handwritten-fixture"}
+{"text":"пример","start":0,"end":6,"label":"other","partition":"auxiliary_train","group_id":"fixture-other-cyrillic","source":"tiny-handwritten-fixture"}
+{"text":"مرحبا","start":0,"end":5,"label":"other","partition":"auxiliary_train","group_id":"fixture-other-arabic","source":"tiny-handwritten-fixture"}

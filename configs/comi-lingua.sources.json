@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "resource": "COMI-LINGUA public Hindi-English token language annotations",
+  "revision": "0214cb358e59e36da60e01d3d59ddd24df897749",
+  "provenance": "https://huggingface.co/datasets/LingoIITGN/COMI-LINGUA",
+  "limitations": ["Auxiliary token labels, not retrieval judgments", "No Bengali coverage", "Does not verify generated MIRACL-query variants"],
+  "assets": [
+    {"name": "COMI-LINGUA LID train", "url": "https://huggingface.co/datasets/LingoIITGN/COMI-LINGUA/resolve/0214cb358e59e36da60e01d3d59ddd24df897749/LID_train.csv", "path": "LID_train.csv", "size": 123492954, "sha256": "d17e256c92604bbadd4fcbcc7e82035985349551f9889e39afabbde8be8bc85f", "license": "CC-BY-4.0", "revision": "0214cb358e59e36da60e01d3d59ddd24df897749"},
+    {"name": "COMI-LINGUA LID test", "url": "https://huggingface.co/datasets/LingoIITGN/COMI-LINGUA/resolve/0214cb358e59e36da60e01d3d59ddd24df897749/LID_test.csv", "path": "LID_test.csv", "size": 22570832, "sha256": "decd0dfd90c03f4366af82360e4b52d01214435beb5e1b519784bd294770faa2", "license": "CC-BY-4.0", "revision": "0214cb358e59e36da60e01d3d59ddd24df897749"},
+    {"name": "COMI-LINGUA dataset card", "url": "https://huggingface.co/datasets/LingoIITGN/COMI-LINGUA/resolve/0214cb358e59e36da60e01d3d59ddd24df897749/README.md", "path": "README.md", "size": 7267, "git_blob_sha1": "0e3c0a5cd8ceca02cadff35ef642b645e4e104b5", "license": "CC-BY-4.0", "revision": "0214cb358e59e36da60e01d3d59ddd24df897749"}
+  ]
+}
